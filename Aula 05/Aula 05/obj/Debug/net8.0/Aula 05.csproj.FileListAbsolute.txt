@@ -1,0 +1,15 @@
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\bin\Debug\net8.0\Aula 05.exe
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\bin\Debug\net8.0\Aula 05.deps.json
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\bin\Debug\net8.0\Aula 05.runtimeconfig.json
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\bin\Debug\net8.0\Aula 05.dll
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\bin\Debug\net8.0\Aula 05.pdb
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.AssemblyInfoInputs.cache
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.AssemblyInfo.cs
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.csproj.CoreCompileInputs.cache
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.sourcelink.json
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.dll
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\refint\Aula 05.dll
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.pdb
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\Aula 05.genruntimeconfig.cache
+C:\Users\liago\OneDrive\Área de Trabalho\Programação\Csharp\Basicc-\Aula 05\Aula 05\obj\Debug\net8.0\ref\Aula 05.dll
