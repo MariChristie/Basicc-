@@ -1,7 +1,10 @@
-﻿namespace Aula10;
+﻿using System.ComponentModel.Design;
+
+namespace Aula10;
 
 public class Program
 {
+
     public static void Main()
     {
         Console.WriteLine("=====Calculadora simples===== \n");
@@ -17,6 +20,38 @@ public class Program
         Console.WriteLine("3. Multiplicação (*):");
         Console.WriteLine("4. Divisão (/):");
         Console.WriteLine("Digite o número da operação:");
-        int operation =  Convert.ToInt32(Console.ReadLine());
+        int operation = Convert.ToInt32(Console.ReadLine());
+
+        double result = 0;
+
+        if (operation == 1)
+        {
+            result = num1 + num2;
+        }
+        else if (operation == 2)
+        {
+            result = num1 - num2;
+        }
+        else if (operation == 3)
+        {
+            result = num1 * num2;
+        }
+        else if (operation == 4)
+        {
+            if (num2 != 0)
+            {
+                result = num1 / num2;
+            }
+            else
+            {
+                Console.WriteLine("Erro: Não é possível dividir um número por 0");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Operação inválida");
+        }
+
+        Console.WriteLine("O resultado é: " + result);
     }
 }
